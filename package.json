@@ -8,7 +8,8 @@
     "lint": "./node_modules/.bin/eslint --ext .js src",
     "lint-fix": "./node_modules/.bin/eslint --ext .js src --fix",
     "commit": "cz",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release": "./release.sh"
   },
   "author": "zhou",
   "license": "ISC",
@@ -35,7 +36,7 @@
     }
   },
   "lint-staged": {
-    "*{.js,.vue}": [
+    "*{.js}": [
       "eslint --ext .js"
     ]
   },
