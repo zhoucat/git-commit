@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.2](https://github.com/zhoucat/git-commit/compare/prefix_v1.0.1...prefix_v1.0.2) (2021-03-19)
+
+
+### Features
+
+* 删除webpack+wepack/cli ([435a105](https://github.com/zhoucat/git-commit/commit/435a105fa31905850b296378fcd63d3e34b0c647))
+
 ### 1.0.1 (2021-03-19)
 
 
