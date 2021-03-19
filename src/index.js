@@ -4,4 +4,5 @@ const add = function (a, b) {
 }
 
 const numA = add(1, 2)
+const numB = add(1, 2)
 console.log(numA)
