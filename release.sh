@@ -1,3 +1,5 @@
+#!/bin/bash
+
 while [[ "$#" > 0 ]]; do case $1 in
   -r|--release) release="$2"; shift;;
   -b|--branch) branch="$2"; shift;;
@@ -21,7 +23,7 @@ echo "Release as $release"
 # Tag prefix
 prefix="prefix_v"
 
-git pull --rebase origin $branch
+git pull origin $branch
 echo "Current pull origin $branch."
 
 # Generate version number and tag
