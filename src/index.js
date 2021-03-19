@@ -1,5 +1,5 @@
 const add = function (a, b) {
-  let d = 3;
+  const g = 3
   return a + b
 }
 
