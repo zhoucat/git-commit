@@ -37,7 +37,7 @@
   },
   "lint-staged": {
     "*{.js}": [
-      "eslint --ext .js src"
+      "npm run lint"
     ]
   },
   "standard-version": {
