@@ -1,6 +1,6 @@
 {
   "name": "git-commit",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "git commit规范工程",
   "main": "index.js",
   "scripts": {

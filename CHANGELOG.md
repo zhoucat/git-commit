@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.3](https://github.com/zhoucat/git-commit/compare/prefix_v1.0.2...prefix_v1.0.3) (2021-03-19)
+
+
+### Features
+
+* **index.js:** index增加numb功能 ([3ec5cce](https://github.com/zhoucat/git-commit/commit/3ec5cce799174f8dcaa8dae3e54a785b9c73bc02))
+
 ### [1.0.2](https://github.com/zhoucat/git-commit/compare/prefix_v1.0.1...prefix_v1.0.2) (2021-03-19)
 
 
